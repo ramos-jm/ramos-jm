@@ -3,7 +3,7 @@
 
 <h3 align = "left"> Contact Details: </h3>
     <p>📲Mobile Number: +639954853302</p>
-    <p>📧Email Address: ramosjohnmichael61@gmail.com</p>
+    <p>📧Email Address: <a href = "mailto:ramosjohnmichael61@gmail.com">ramosjohnmichael61@gmail.com</a></p>
     <p>🏠Address: Imus City, Cavite</p>
 
 <h3 align = "left">Education🏫</h3>
