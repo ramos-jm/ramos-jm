@@ -24,13 +24,13 @@
 
 <h3 align = "center">Certificates📜</h3>
 <h3 align = "center"><a href="https://coursera.org/share/bdf8c1693ca135d8629687b8dabc3112">Data Analysis with R Programming</a></h3><p align = "center">August 24,2023</p>
-<h3 align = "center"><a href="https://coursera.org/share/eab959daa905be85af639937ac5a58d5">Process Data from Dirty to Clean</a></h3><h4 align = "center">August 22,2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/3528b021c2e8e673d5cc85a1539d35b8">Ask Questions to Make Data-Driven Decisions</a></h3><h4 align = "center">August 12,2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/a6df64fa6114c0dc37f41be28eda3d21">Google IT Support</a></h3><h4 align = "center">July 20, 2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/cf5de79f861e69e9934d0360a707e972">IT Security: Defense against the digital dark arts</a></h3><h4 align = "center">July 20, 2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/8a35b1da8a51d3553f02364cdb97bead">Operating Systems and You: Becoming a Power User</a></h3><h4 align = "center">July 8, 2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/926a31e4eedf1af6f8a74630c4b3e23d">System Administration and IT Infrastructure Services</a></h3><h4 align = "center">July 5, 2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/040225e83501a6070da52239e3d35437">The Bits and Bytes of Computer Networking</a></h3><h4 align = "center">June 27,2023</h4>
-<h3 align = "center"><a href="https://coursera.org/share/aceeeefdf5281c2debd90f64127b6c28">Technical Support Fundamentals</a></h3><h4 align = "center">June 3,2023</h4>
+<h3 align = "center"><a href="https://coursera.org/share/eab959daa905be85af639937ac5a58d5">Process Data from Dirty to Clean</a></h3><p align = "center">August 22,2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/3528b021c2e8e673d5cc85a1539d35b8">Ask Questions to Make Data-Driven Decisions</a></h3><p align = "center">August 12,2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/a6df64fa6114c0dc37f41be28eda3d21">Google IT Support</a></h3><p align = "center">July 20, 2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/cf5de79f861e69e9934d0360a707e972">IT Security: Defense against the digital dark arts</a></h3><p align = "center">July 20, 2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/8a35b1da8a51d3553f02364cdb97bead">Operating Systems and You: Becoming a Power User</a></h3><p align = "center">July 8, 2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/926a31e4eedf1af6f8a74630c4b3e23d">System Administration and IT Infrastructure Services</a></h3><p align = "center">July 5, 2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/040225e83501a6070da52239e3d35437">The Bits and Bytes of Computer Networking</a></h3><p align = "center">June 27,2023</p>
+<h3 align = "center"><a href="https://coursera.org/share/aceeeefdf5281c2debd90f64127b6c28">Technical Support Fundamentals</a></h3><p align = "center">June 3,2023</p>
 
 
