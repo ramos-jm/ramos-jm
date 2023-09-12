@@ -1,6 +1,11 @@
 <h1 align="center">Hi 🙋‍♂️, I'm John Michael C. Ramos</h1>
 <h3 align="center">A 3rd Year Computer Science student at New Era University</h3>
 
+<h3 align = "left"> Contact Details: </h3>
+    <p>📲Mobile Number: +639954853302</p>
+    <p>📧Email Address: ramosjohnmichael61@gmail.com</p>
+    <p>🏠Address: Imus City, Cavite</p>
+
 <h3 align = "left">Education🏫</h3>
 <p>
   New Era University <br>
