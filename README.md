@@ -24,3 +24,6 @@
 
 <h3 align = "center">Certificates📜</h3>
 <h3 align = "center"><a href="https://coursera.org/share/bdf8c1693ca135d8629687b8dabc3112">Data Analysis with R Programming</a></h3><h4 align = "center">August 24,2023</h4>
+<h3 align = "center"><a href="https://coursera.org/share/eab959daa905be85af639937ac5a58d5">Process Data from Dirty to Clean</a></h3><h4 align = "center">August 22,2023</h4>
+<h3 align = "center"><a href="https://coursera.org/share/3528b021c2e8e673d5cc85a1539d35b8">Ask Questions to Make Data-Driven Decisions</a></h3><h4 align = "center">August 12,2023</h4>
+
