@@ -1,3 +1,9 @@
+
+
+https://github.com/ramos-jm/ramos-jm/assets/127398189/e8a7aadc-b562-4c7c-8f6b-7b21bb935fb1
+
+
+
 <h1 align="center">Hi 🙋‍♂️, I'm John Michael C. Ramos</h1>
 <h3 align="center">A 3rd Year Computer Science student at New Era University</h3>
 
