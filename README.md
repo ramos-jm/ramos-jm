@@ -6,7 +6,7 @@
   📲 Mobile Number: +639954853302<br>
   📧 Email Address: <a href="mailto:ramosjohnmichael61@gmail.com">ramosjohnmichael61@gmail.com</a><br>
   🏠 Address: Imus City, Cavite<br>
-  🌐 My Portfolio: <a href = "https://ramos-jm.github.io/my-portfolio/">https://ramos-jm.github.io/my-portfolio/</a>
+  🌐 My Portfolio: <a href = "https://ramos-jm.github.io/my-portfolio/">https://ramos-jm.github.io/my-portfolio</a>
 </p>
 
 <h3 align="left">🎓 Education:</h3>
