@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm John Michael C. Ramos</h1>
-<h3 align="center">A 3rd Year Computer Science student at New Era University</h3>
+<h3 align="center">A 4th Year Computer Science student at New Era University</h3>
 
 <h3 align="left">📞 Contact Details:</h3>
 <p align="left">
