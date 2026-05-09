@@ -1,6 +1,9 @@
 ![MasterHead](masterheaddd.png)
   
   <p align="center">
+        <a href="https://ramos-jm.github.io/professional-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-02182B?style=for-the-badge&logo=react&logoColor=D7263D" alt="Portfolio">
+</a>
   <a href="https://www.linkedin.com/in/ramos-jm/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,9 +19,7 @@
   <a href="viber://add?number=639954853302">
      <img src="https://img.shields.io/badge/Viber-2CA5E0?style=for-the-badge&logo=viber&logoColor=white" alt="viber">
   </a>
-    <a href="(https://ramos-jm.github.io/professional-portfolio/)">
-  <img src="https://img.shields.io/badge/Portfolio-02182B?style=for-the-badge&logo=react&logoColor=D7263D" alt="Portfolio">
-</a>
+
   </a>
   </p>
   
